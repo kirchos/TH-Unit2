@@ -128,7 +128,7 @@ hr {
 
 #contact > .con-in {
     padding: 20px 10px;
-    font-size: 10px;
+    font-size: 1.1em;
 }
 
 #contact h2 {
@@ -249,7 +249,7 @@ hr {
         padding-bottom: 20px;
     }
 
-    #contact > p {
+    #contact > .con-in {
         padding: 50px 140px 0;
     }
 
@@ -361,8 +361,8 @@ hr {
         letter-spacing: 2px;
     }
 
-    #contact p {
-        font-size: 1.15em;
+    #contact > .con-in {
+        font-size: 1.5em;
     }
     
     .phone-email {
